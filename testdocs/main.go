@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/joaopauloduprat/golang/cachorro"
+	"github.com/joaopauloduprat/golang/testdocs/cachorro"
 )
 
 func main() {
